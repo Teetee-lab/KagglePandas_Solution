@@ -12,4 +12,4 @@
 ``` 
 
 Author 
-- Titilayo (Teetee) Amuwo
+- Titilayo Amuwo
